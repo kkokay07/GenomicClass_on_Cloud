@@ -54,3 +54,16 @@ Star ⭐ and watch 👀 this repo for updates!
 
 ---
 *Made with 🧬, 💻, and a sprinkle of bioinformatics magic*
+
+## 👨‍🔬 About the Author
+
+**Dr. Kanaka K. K., PhD, ARS**  
+Scientist  
+School of Bioinformatics  
+ICAR-Indian Institute of Agricultural Biotechnology, India
+
+## 🔎 Spy on me
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=0dQ7Sf8AAAAJ&view_op=list_works&sortby=pubdate)
+- [ResearchGate](https://www.researchgate.net/profile/Kanaka-K-K/research)
+- [Institute Website](https://iiab.icar.gov.in/staff/dr-kanaka-k-k/)
+
