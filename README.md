@@ -1,4 +1,4 @@
-# 🧬 GenomicClass: Where DNA Meets the Cloud! 
+# 🧬 Genomic Class on Cloud: Where DNA Meets the Cloud! 
 
 A collection of ready-to-run Google Colab notebooks for genomic analysis and machine learning in bioinformatics.
 
