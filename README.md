@@ -61,7 +61,7 @@ Star ⭐ and watch 👀 this repo for updates!
 Scientist  
 School of Bioinformatics  
 [ICAR-Indian Institute of Agricultural Biotechnology, Ranchi](https://iiab.icar.gov.in/)
-> Be like IIAB!: IIAB is like yogic center where all the sciences (Plant, Animal, Aquatic,Mibrobiology) meet to address emerging issues in food production.
+> Be like IIAB!: IIAB is like yogic center where all the sciences (Plant, Animal, Aquatic,Mibrobiology, IT) meet to address emerging issues in food production.
 
 ## 🔎 Spy on me
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=0dQ7Sf8AAAAJ&view_op=list_works&sortby=pubdate)
