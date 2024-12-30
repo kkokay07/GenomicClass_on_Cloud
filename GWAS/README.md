@@ -1,5 +1,5 @@
 # 🧬 GWAS for Beginners: Where SNPs Meet Statistics! 
-
+>[Guidance for complete implementation on your data is available here](https://github.com/kkokay07/pq-genetics/tree/main/GWAS)
 ## Welcome to the DNA Detective Academy! 🔍
 
 Ever wondered why some people love coriander leaves while others think it tastes like soap? Or why your friend can drink coffee at midnight and still sleep like a baby but you are not? Well, get ready to dive into the fascinating world of Genome-Wide Association Studies (GWAS), where we hunt for genetic variants that make us uniquely human!
