@@ -65,7 +65,7 @@ School of Bioinformatics
 
 ## 🔎 Spy on me
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=0dQ7Sf8AAAAJ&view_op=list_works&sortby=pubdate)
-- [GitHuB: kkokay07](https://github.com/kkokay07)
+- [GitHub: kkokay07](https://github.com/kkokay07)
 - [ResearchGate](https://www.researchgate.net/profile/Kanaka-K-K/research)
 - [Institute Website](https://iiab.icar.gov.in/staff/dr-kanaka-k-k/)
 
